@@ -1,0 +1,16 @@
+The screenshots attached can be described as follows:
+
+1. This screenshot shows what the home tab looks like, where the user can find a summary of the dashboard, along with a description of what each of the tabs visualise.
+
+2. This screenshot shows that what first tab, "Health Board", looks like. The user can find visualisations of death rates split by year, cause and health board. This tab includes a time trend and
+   bar chart. The mouse hovers over the tooltip for the time trend, which shows the death rates for Ayrshire & Arran, for all causes, in the year 2018.
+     
+3. This screenshot shows the first tab, "Health Board", again. However, this time the mouse hovers over the tooltip for the bar chart, which shows the death rates for circulatory disease in
+   Scotland for the year 2022.
+  
+4. This screenshot shows what second tab, "SIMD", looks like. The user can find visualisations of death rates split by year, cause and SIMD quantile. This tab includes a time trend and bar chart.
+   The mouse hovers over the tooltip for the time trend, which shows the death rates for SIMD quantile 1, for accidents, in the year 2021.
+     
+5. This screenshot shows the second tab, "SIMD", again. However, this time the mouse hovers over the tooltip for the bar chart, which shows the death rates for cancer in Scotland for the year 2022.
+  
+6. This screenshot shows the tooltip that the user would see if their mouse hovered over the help icon on the dashboard. It gives the user a link to where the data was found, along with its methodology.
