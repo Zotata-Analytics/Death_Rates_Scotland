@@ -7,3 +7,5 @@ This dashboard visualises data found free online the National Records of Scotlan
 The dashboard can be found and interacted with via this link to the Tableau Public website where it is published:
 
 ## https://public.tableau.com/app/profile/zoe.raffan/viz/StandardisedDeathRatesinScotland/Home
+
+Additionally, screenshots can be found within the folder "screenshots" in this repository.
